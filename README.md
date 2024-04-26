@@ -7,10 +7,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 75%" />
 </div>
 
-
-
-
 ## 🚀 About Me
+
+<p> <img src="https://komarev.com/ghpvc/?username=andropyro28&label=Profile%20views&color=0e75b6&style=flat" alt="andropyro28" /> </p>
+
 <table><tr><td valign="top" width="50%">- 🌱 I’m currently learning **Dart & Flutter**
 
 - 📫 How to reach me **menandroeugenio1028@gmail.com**
