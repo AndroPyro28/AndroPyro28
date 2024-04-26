@@ -9,7 +9,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=andropyro28&label=Profile%20views&color=0e75b6&style=flat" alt="andropyro28" /> </p>
 
-- 🌱 I’m currently learning **T3 stack**
+- 🌱 I’m currently learning **Dart & Flutter**
 
 - 📫 How to reach me **menandroeugenio1028@gmail.com**
 
