@@ -11,7 +11,7 @@
 
 <p> <img src="https://komarev.com/ghpvc/?username=andropyro28&label=Profile%20views&color=0e75b6&style=flat" alt="andropyro28" /> </p>
 
-<table><tr><td valign="top" width="50%">- 🌱 I’m currently learning **Dart & Flutter**
+<table><tr><td valign="top" width="50%">- 🌱 I’m currently learning **PHP & Laravel**
 
 - 📫 How to reach me **menandroeugenio1028@gmail.com**
 
