@@ -99,12 +99,6 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     alt="NodeJS"
     width="40"
     height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
-    alt="Firebase"
-    width="40"
-    height="36" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
@@ -125,31 +119,17 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     height="36" /></a
 >
 </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-
-
 
 # Socials
 <p align="left">
-<a
-    target="_blank"
-    rel="noreferrer"
-    href="https://www.linkedin.com/in/menandro-eugenio-jr-05275a205/"
-    ><img
+<a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/menandro-eugenio-jr-05275a205/">
+  <img
       height="30"
       width="40"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
-  >
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a>
 </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
