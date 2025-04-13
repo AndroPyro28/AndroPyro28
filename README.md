@@ -130,19 +130,13 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
 
 
 <p align="left">
-
-  <a
-    target="_blank"
-    rel="noreferrer"
-    href="https://www.linkedin.com/in/menandro-eugenio-jr-05275a205/"
-    >
+  <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/menandro-eugenio-jr-05275a205/">
     <img
       height="30"
       width="40"
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a
-  >
+      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+  </a>
 </p>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
