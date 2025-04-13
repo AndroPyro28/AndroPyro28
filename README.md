@@ -69,38 +69,38 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     height="36" />
 </a>
     
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
-  ><img
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
     alt="TailwindCSS"
     width="40"
     height="36" /></a
-><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"
-  ><img
+><a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
     alt="Sass"
     width="40"
     height="36" /></a
-><a href="https://redux.js.org/" target="_blank" rel="noreferrer"
-  ><img
+><a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
     alt="Redux"
     width="40"
     height="36" /></a
-><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"
-  ><img
+><a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
     alt="Vite"
     width="40"
     height="36" /></a
-><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
-  ><img
+><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
     alt="NodeJS"
     width="40"
     height="36" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"
-  ><img
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+<img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
     alt="Firebase"
     width="40"
@@ -111,8 +111,8 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     alt="Docker"
     width="40"
     height="36" /></a
-><a href="https://www.linux.org" target="_blank" rel="noreferrer"
-  ><img
+>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
     alt="Linux"
     width="40"
