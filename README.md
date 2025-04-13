@@ -41,6 +41,8 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     width="40"
     height="36"
 /></a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/nestjs/nestjs.com/master/img/logo-small.svg" alt="NestJs" width="40" height="40"/> </a>
+  <a href="https://hono.dev" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/98495527?s=200&v=4" alt="HonoJs" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
