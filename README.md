@@ -34,7 +34,6 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     width="40"
     height="36"
 /></a>
-
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
@@ -52,8 +51,9 @@ Passionate Web Developer 🚀 | Turning Ideas into Code | Constantly Learning an
     alt="HTML5"
     width="40"
     height="36"
-/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+/>
+</a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
     alt="React"
